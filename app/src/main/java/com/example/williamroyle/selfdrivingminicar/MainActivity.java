@@ -65,6 +65,9 @@ public class MainActivity extends Activity implements CvCameraViewListener2 {
     public void onCreate(Bundle savedInstanceState)
     {
         super.onCreate(savedInstanceState);
+        //
+
+
             /*try
             {
                 mCamera = Camera.open();
